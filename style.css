@@ -9,7 +9,7 @@ html,body{
 #main{
 	width:100%;
 	height: 100vh;
-	background-image: url(../Images/Background_opt.jpg);
+	background-image: url(Images/Background_opt.jpg);
 	background-size: cover;
 	display: block;
 }
